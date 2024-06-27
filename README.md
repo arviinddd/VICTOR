@@ -1,6 +1,8 @@
 # VICTOR- An University Chatbot
+
 # Project Overview
-"Victor" is an advanced chatbot application developed to assist prospective students in finding detailed information about the programs at the University at Buffalo. By leveraging cutting-edge natural language processing (NLP) and reinforcement learning technologies, Victor provides accurate, real-time responses to user queries, enhancing the user experience and ensuring that users receive the most relevant information efficiently.
+
+"Victor" is an innovative chatbot application designed to assist prospective students in navigating the vast landscape of graduate programs offered at the University at Buffalo. By harnessing the power of natural language processing (NLP) and reinforcement learning, Victor provides instant, accurate, and contextually relevant responses to user queries, greatly enhancing the user experience and streamlining the information retrieval process.
 
 # Key Features
 1. Natural Language Processing:
