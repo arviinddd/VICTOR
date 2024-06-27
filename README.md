@@ -2,6 +2,24 @@
 # Project Overview
 This project is a chatbot application named "Victor," designed to assist users in finding information about graduate programs at the University at Buffalo. The chatbot leverages natural language processing and reinforcement learning to provide accurate and helpful responses to user queries.
 
+# Key Features
+# Natural Language Processing:
+
+Spacy: Used for advanced text processing to understand and interpret user queries.
+Bert: Utilized for intent recognition to accurately determine the user's intent based on their input.
+
+# Reinforcement Learning:
+
+Q-Learning: Implements a Q-learning algorithm to train the chatbot for better interaction and response over time.
+
+# Program Details and FAQs:
+
+Integrates a database of program details and frequently asked questions (FAQs) to provide precise answers to user queries.
+
+# Frontend Interface:
+
+React: Provides a user-friendly interface for users to interact with the chatbot.
+
 # Technologies Used
 
 Flask: A micro web framework for Python used to build the server-side application.
@@ -19,18 +37,19 @@ React: A JavaScript library for building user interfaces.
 Q-Learning: A reinforcement learning algorithm used for training the chatbot to interact with users effectively.
 
 Python: The primary programming language used for developing the backend.
-  
-# Features
 
-Natural Language Processing: Utilizes Spacy for processing and understanding user queries.
 
-Intent Recognition: Uses a simple keyword-based approach to determine the intent of user queries.
+# How It Works
 
-Program Details and FAQs: Searches and matches user queries against a database of program details and frequently asked questions.
+User Interaction: Users interact with the chatbot through a chat interface. They can ask questions about graduate programs, application procedures, deadlines, fees, and more.
 
-Reinforcement Learning: Implements a Q-learning agent to improve the chatbot's responses over time.
+Intent Recognition: The chatbot processes the user's input using NLP techniques to determine the intent behind the query.
 
-Frontend Interface: A React-based user interface allowing users to interact with the chatbot.
+Information Retrieval: Based on the recognized intent, the chatbot searches the program details and FAQs to find the most relevant information.
+
+Response Generation: The chatbot generates a response and sends it back to the user through the chat interface.
+
+Reinforcement Learning: The chatbot uses reinforcement learning to improve its responses over time by learning from interactions.
 
 # File Structure
 app.py: Main Flask application file.
