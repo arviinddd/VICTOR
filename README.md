@@ -6,6 +6,7 @@ This project is a chatbot application named "Victor," designed to assist users i
 1. Natural Language Processing:
 
 Spacy: Used for advanced text processing to understand and interpret user queries.
+
 Bert: Utilized for intent recognition to accurately determine the user's intent based on their input.
 
 2. Reinforcement Learning:
