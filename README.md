@@ -3,20 +3,20 @@
 This project is a chatbot application named "Victor," designed to assist users in finding information about graduate programs at the University at Buffalo. The chatbot leverages natural language processing and reinforcement learning to provide accurate and helpful responses to user queries.
 
 # Key Features
-# Natural Language Processing:
+1. Natural Language Processing:
 
 Spacy: Used for advanced text processing to understand and interpret user queries.
 Bert: Utilized for intent recognition to accurately determine the user's intent based on their input.
 
-# Reinforcement Learning:
+2. Reinforcement Learning:
 
 Q-Learning: Implements a Q-learning algorithm to train the chatbot for better interaction and response over time.
 
-# Program Details and FAQs:
+3. Program Details and FAQs:
 
 Integrates a database of program details and frequently asked questions (FAQs) to provide precise answers to user queries.
 
-# Frontend Interface:
+4. Frontend Interface:
 
 React: Provides a user-friendly interface for users to interact with the chatbot.
 
