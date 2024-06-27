@@ -4,22 +4,21 @@ This project is a chatbot application named "Victor," designed to assist users i
 
 # Key Features
 1. Natural Language Processing:
+    Spacy: Used for advanced text processing to understand and interpret user queries.
 
-Spacy: Used for advanced text processing to understand and interpret user queries.
-
-Bert: Utilized for intent recognition to accurately determine the user's intent based on their input.
+    Bert: Utilized for intent recognition to accurately determine the user's intent based on their input.
 
 2. Reinforcement Learning:
 
-Q-Learning: Implements a Q-learning algorithm to train the chatbot for better interaction and response over time.
+    Q-Learning: Implements a Q-learning algorithm to train the chatbot for better interaction and response over time.
 
 3. Program Details and FAQs:
 
-Integrates a database of program details and frequently asked questions (FAQs) to provide precise answers to user queries.
+    Integrates a database of program details and frequently asked questions (FAQs) to provide precise answers to user queries.
 
 4. Frontend Interface:
 
-React: Provides a user-friendly interface for users to interact with the chatbot.
+    React: Provides a user-friendly interface for users to interact with the chatbot.
 
 # Technologies Used
 
