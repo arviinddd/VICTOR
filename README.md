@@ -78,4 +78,5 @@ Expand the database to include more detailed information about programs and serv
 
 # Acknowledgments
 The University at Buffalo for providing the program details and FAQs.
+
 The developers and maintainers of Flask, Gymnasium, Spacy, Transformers, React, and other open-source projects used in this application.
